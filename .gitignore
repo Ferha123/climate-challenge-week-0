@@ -1,0 +1,6 @@
+.venv/
+--pycache--/
+data/
+*.csv
+Desktop/
+AppData/
